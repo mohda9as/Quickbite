@@ -30,9 +30,8 @@ This repository contains three main folders:
 
 #### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/QuickBite.git
+git clone https://github.com/GJPC/QuickBite.git
 ```
-Or download the zip file and extract it.
 
 #### Step 2: Frontend Setup (User Interface)
 1. Navigate to the `Frontend` folder:
